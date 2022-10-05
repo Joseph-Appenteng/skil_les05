@@ -1,5 +1,7 @@
 # Nasi goreng voor 2 personen
 
+!(C:\Users\josep\OneDrive\Documents\Ma\bewijzenmap\skil\les5\skil_les05)
+
 ## BENODIGHEID
 
 *400 gram nasi of wokgroenten
@@ -29,4 +31,4 @@
 9. Bak ondertussen 2 eieren en verdeel er naar smaak een beetje peper en zout over.
 10. Verdeel de nasi over 2 kommen, leg het ei erop en eet smakelijk!
 
-(https://www.eefkooktzo.nl/nasi-goreng-maken/)
+(www.eefkooktzo.nl/nasi-goreng-maken/)
