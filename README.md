@@ -1,22 +1,22 @@
 # Nasi goreng voor 2 personen
 
-![nasi](https://github.com/Joseph-Appenteng/skil_les05.git)
+![nasi](https://github.com/Joseph-Appenteng/skil_les05.git.nasi.jpg)
 
 ## BENODIGHEID
 
-*400 gram nasi of wokgroenten
-*150 gram rijst
-*2 eieren
-*2 teentjes knoflook
-*1 ui
-*1 rode peper
-*3 eetlepels ketjap manis
-*1 eetlepel sojasaus
-*Halve eetlepel trassi
-*2 theelepels komijn
-*2 theelepels ketoembar (gemalen koriander)
-*1 theelepel kurkuma
-*1 theelepel gember (geraspt)
+* 400 gram nasi of wokgroenten
+* 150 gram rijst
+* 2 eieren
+* 2 teentjes knoflook
+* 1 ui
+* 1 rode peper
+* 3 eetlepels ketjap manis
+* 1 eetlepel sojasaus
+* Halve eetlepel trassi
+* 2 theelepels komijn
+* 2 theelepels ketoembar (gemalen koriander)
+* 1 theelepel kurkuma
+* 1 theelepel gember (geraspt)
 
 ### BEREIDING
 
