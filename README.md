@@ -31,4 +31,4 @@
 9. Bak ondertussen 2 eieren en verdeel er naar smaak een beetje peper en zout over.
 10. Verdeel de nasi over 2 kommen, leg het ei erop en eet smakelijk!
 
-(www.eefkooktzo.nl/nasi-goreng-maken/)
+![nasi](https://www.mindyourfeed.nl/wp-content/uploads/2020/08/nasi-goreng-2-2-690x336.jpg)
